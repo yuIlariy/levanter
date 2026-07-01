@@ -3,7 +3,7 @@
     "SESSION_ID": "levanter_sessionid",
     "PREFIX": "^[.,!]",
     "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
+    "STICKER_PACKNAME": "🅺🅾🅾🅺🆈",
     "ALWAYS_ONLINE": "false",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
@@ -14,7 +14,7 @@
     "ANTIWORDS_MSG": "_AntiWord Detected &mention kicked_",
     "ANTIWORDS": "word",
     "REJECT_CALL": "false",
-    "AUTO_STATUS_VIEW": "false",
+    "AUTO_STATUS_VIEW": "true",
     "SEND_READ": "false",
     "AJOIN": "false",
     "GPT": "free",
@@ -34,10 +34,5 @@
   },
   "session2": {
     "SESSION_ID": "levanter_sessionid",
-    "PREFIX": "null"
-  },
-  "session3": {
-    "SESSION_ID": "levanter_sessionid",
-    "PREFIX": ".."
+    "PREFIX": "."
   }
-}
